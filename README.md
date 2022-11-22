@@ -23,9 +23,13 @@ The sekend loop makes a list for the Roof level, afterworts it sorts out the ext
 
 Now we have made some Values we want the list to contain so we can see it in the excel file.
 
-So the first thing is the level, then we want it to tell us the informations about each wall exterial wall on the level, and then list it in a collum in the excel sheet.
+So the first thing is the level, then we want it to tell us the informations about each wall exterial wall on the level, and then list it in a column in the excel sheet.
 
-The structure of the excel sheet are defines in line 125, the first part is colums A wich is defind with describing text we have made.
-the sekend part is Collumn B here are the Roof level defined with each wall on the level and the informations about it.
-Collumn C here are the 2. level defined.
-Collumn D here are the 1. level defined.
+The structure of the excel sheet are defines in line 125, 
+the first part is column A wich is defind with describing text we have made.
+
+The sekend part is column B here are the Roof level defined with each wall on the level and the informations about it.
+
+column C here are the 2. level defined.
+
+column D here are the 1. level defined.
