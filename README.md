@@ -33,3 +33,7 @@ The sekend part is column B here are the Roof level defined with each wall on th
 column C here are the 2. level defined.
 
 column D here are the 1. level defined.
+
+In line 127 will Pandas print the output for you in an excel file, to make it work on your computer you have to make the parth to were you want it to be saved.
+![Line 127](https://github.com/AnjaHolmquist/A4-Final_project/blob/main/Line%20127.png)
+
