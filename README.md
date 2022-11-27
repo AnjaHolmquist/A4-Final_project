@@ -39,3 +39,7 @@ In line 127 will Pandas print the output for you in an excel file, to make it wo
 
 Here you can see a short video about this use case.
 ![Video](https://github.com/AnjaHolmquist/A4-Final_project/blob/main/Group11-A4_Final_Project.zip)
+
+# If we had more time
+We wanted to make this tool more userfrendly, so maybe there could be a kind af drop down meny so the contractor can select the building part he/here wants to know about.
+it could also be a HTML file where the Client can send an link and the contractor could send the answer back to the Client.
